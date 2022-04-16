@@ -1,4 +1,4 @@
-### Hi there 👋
+### Matheus Eduardo 👋
 
 <!--
 **matheusantos09/matheusantos09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 ### Contact
 
 <p>
-  <a href="https://rg3915.github.io/"target="_blank"><img src="https://img.shields.io/badge/Portfolio-00BB00?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.dicas-de-django.com.br/"target="_blank"><img src="https://img.shields.io/badge/dicasdedjango-1572B6?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="http://pythonclub.com.br/"target="_blank"><img src="https://img.shields.io/badge/pythonclub-43a366?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/matheus-eduardo-barboza-santos-337188118/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
