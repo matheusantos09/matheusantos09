@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-<!-- [![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusantos09&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantos09&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusantos09&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantos09&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
