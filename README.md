@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### Github Stats
 
 [![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusantos09&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantos09&layout=compact&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-  [![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusantos09&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api?username=matheusantos09&show_icons=true&theme=merko" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantos09&theme=blue-green&hide=shell" height = "165">
 </div>
