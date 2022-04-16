@@ -47,3 +47,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantos09&theme=blue-green&hide=shell" height = "165">
 </a>
 
+[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusantos09)](https://github.com/anuraghazra/github-readme-stats)
