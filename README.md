@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 
 <a href="#">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=matheusantos09&show_icons=true&count_private=true&theme=merko" height="165"> -->
-  <img src="	https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" height = "165">
+  <img src="	https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantos09&theme=blue-green" height = "165">
 </a>
 
