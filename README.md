@@ -1,6 +1,6 @@
 <!-- ### Matheus Eduardo 👋 -->
 <p align="center">
-<a href="https://readme-typing-svg.herokuapp.com?font=Roboto&color=1572B6&lines=Hi+there%2C+I'm+Matheus"></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=1572B6&lines=Hi+there%2C+I'm+Matheus" /></a>
 </p>
 
 <!-- ### Hello! Welcome to my profile -->
