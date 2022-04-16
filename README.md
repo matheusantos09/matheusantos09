@@ -1,5 +1,5 @@
 <!-- ### Matheus Eduardo 👋 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=003140&lines=Hi+there%2C+I'm+Matheus)](https://git.io/typing-svg) 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=1572B6&lines=Hi+there%2C+I'm+Matheus)](https://git.io/typing-svg) 👋
 
 <!-- ### Hello! Welcome to my profile -->
 <!-- <img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200"> -->
