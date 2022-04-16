@@ -39,10 +39,11 @@ Here are some ideas to get you started:
   <img alt="Docker" src="https://img.shields.io/badge/docker-1572B6.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-
+<!--
 ### Github Stats
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=matheusantos09&show_icons=true&count_private=true&theme=merko" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantos09&layout=compact&theme=merko&hide=css,html,jupyter%20notebook" height = "165">
 </a>
+-->
