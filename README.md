@@ -1,6 +1,6 @@
 ### Matheus Eduardo 👋
 
-### Hello! Welcome to my profile
+<!-- ### Hello! Welcome to my profile -->
 <!-- <img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200"> -->
 
 <!--
