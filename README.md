@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Contact
 
 <p>
-  <a href="https://www.linkedin.com/in/matheus-eduardo-barboza-santos-337188118/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/matheuseduardo09/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
