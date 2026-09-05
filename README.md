@@ -7,7 +7,8 @@
 
 ### About
 
-- 🔭 Fullstack dev — Go e PHP/Laravel no back, JavaScript/TypeScript e React no front
+- 🔭 Fullstack com foco em backend — Go, PHP/Laravel e Node
+- 🧰 Também navego no front quando precisa — JavaScript/TypeScript e React
 - 🐳 Docker, Linux e CI no dia a dia
 - 💬 Fale comigo sobre APIs, arquitetura e boas práticas
 
